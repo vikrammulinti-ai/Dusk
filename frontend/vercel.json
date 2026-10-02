@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://dusk-bzuk.onrender.com/:path*" }
+  ]
+}
